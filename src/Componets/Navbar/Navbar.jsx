@@ -4,9 +4,9 @@ const Navbar = () => {
     const navber = <>
     
     <li><Link to="/">Home</Link></li>
-    <li><Link to="/conteat">Contect</Link></li>
-    <li><Link to="/polash">polash</Link></li>
-    <li><Link to="/forhad">forhad</Link></li>
+    <li><Link to="/ourmenu">OUR MENU</Link></li>
+    <li><Link to="/regestore">Regestore</Link></li>
+    <li><Link to="/login">Login</Link></li>
     </>
   return (
     <div>

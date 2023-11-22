@@ -5,7 +5,7 @@ const Dasuui = () => {
       <div
         className="hero min-h-screen w-[1300px] h-[600px] mb-36"
       >
-        <img src={shopimg} alt="" />
+        <img className='w-[1270px]' src={shopimg} alt="" />
         <div className="hero-overlay bg-opacity-60 w-[800px] h-[250px] bg-stone-300"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-md text-black">

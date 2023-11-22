@@ -28,6 +28,9 @@ const pupularItems = data.filter(item =>item.category === 'popular')
           ></Menuitems>)
         }
       </div>
+      <div>
+        <h4 className="btn mx-[550px]">View Full  Menu</h4>
+      </div>
     </section>
   );
 };
